@@ -251,5 +251,16 @@ lofProductBySellerId(
     total_count
 }
 ```
-
+````
+{
+    storeConfig {
+       lofmarketplace_general_enable
+      lofmarketplace_general_rating_approval
+      lofmarketplace_list_show_seller_name
+      lofmarketplace_seller_title
+      lofmarketplace_seller_enable
+      lofmarketplace_seller_settings_allowed_socials
+    }
+}
+```
 
